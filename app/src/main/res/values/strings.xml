@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">PrimeiroProjeto</string>
+    <string name="calculadora_toperson">Calculadora Toperson</string>
+    <string name="label_peso">Seu Peso:</string>
+    <string name="hint_peso">Exemplo: 50.0</string>
+    <string name="label_altura">Sua Altura:</string>
+    <string name="hint_altura">Exemplo: 1.75</string>
+    <string name="button_calcular">Calcular</string>
+    <string name="button_limpar">Limpar</string>
+</resources>
