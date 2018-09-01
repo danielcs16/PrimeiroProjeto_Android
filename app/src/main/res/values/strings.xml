@@ -9,4 +9,11 @@
     <string name="button_limpar">Clear</string>
     <string name="label_titulo_resultado">You IMC is</string>
     <string name="label_rodape">Developed by EU</string>
+    <string name="label_magreza">Magreza</string>
+    <string name="label_abaixo">Abaixo do peso ideal</string>
+    <string name="label_ideal">Peso ideal</string>
+    <string name="label_sobrepeso">Levemente acima do peso</string>
+    <string name="label_obesidade1">Obesidade 1</string>
+    <string name="label_obesidade2">Obesidade 2</string>
+    <string name="label_obesidade3">Obesidade 3</string>
 </resources>
