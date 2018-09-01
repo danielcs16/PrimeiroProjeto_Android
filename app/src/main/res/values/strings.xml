@@ -1,10 +1,12 @@
 <resources>
     <string name="app_name" translatable="false">PrimeiroProjeto</string>
-    <string name="calculadora_toperson">Calculadora Toperson</string>
-    <string name="label_peso">Seu Peso:</string>
-    <string name="hint_peso">Exemplo: 50.0</string>
-    <string name="label_altura">Sua Altura:</string>
-    <string name="hint_altura">Exemplo: 1.75</string>
-    <string name="button_calcular">Calcular</string>
-    <string name="button_limpar">Limpar</string>
+    <string name="calculadora_toperson">Calculator Toperson</string>
+    <string name="label_peso">Weight:</string>
+    <string name="hint_peso">Example: 50.0</string>
+    <string name="label_altura">Height:</string>
+    <string name="hint_altura">Example: 1.75</string>
+    <string name="button_calcular">Calculate</string>
+    <string name="button_limpar">Clear</string>
+    <string name="label_titulo_resultado">You IMC is</string>
+    <string name="label_rodape">Developed by EU</string>
 </resources>
